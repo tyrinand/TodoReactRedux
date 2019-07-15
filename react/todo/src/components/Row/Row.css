@@ -1,0 +1,10 @@
+.my-space{
+    display: inline-block;
+    width: 10px;
+}
+.my-title{
+    font-size: 1.4rem;
+}
+.select{
+    text-decoration: line-through;
+}

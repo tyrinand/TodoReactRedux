@@ -1,0 +1,9 @@
+export const HAS_ERROR = 'HAS_ERROR';
+export const HAS_LOADING = 'HAS_LOADING';
+export const FETCH_DATA_SUC = 'FETCH_DATA_SUC';
+export const ADD_TASK_SUC = 'ADD_TASK_SUC';
+export const DEL_TASK_SUC = 'DEL_TASK_SUC';
+export const EDIT_TASK = 'EDIT_TASK';
+export const UPDATE_TASK = 'UPDATE_TASK';
+export const SELECT_TASK = 'SELECT_TASK';
+export const FILTER = 'FILTER';
